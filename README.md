@@ -1,6 +1,6 @@
-# polyamory-blog
+# Playing with Vuepress
 
-## Blog
+## ```folder /blog``` (A Vuepress getting-started way)
 
 ### Compiles and hot-reloads for development
 ```
@@ -12,7 +12,9 @@ npm run blog:dev
 npm run blog:build
 ```
 
-## Project
+## ```folder /scaffolded-blog``` (Scaffolding tool by plugin-blog's author - [repo here](https://github.com/ulivz/create-vuepress))
+
+## Vueapp (left untouched due to Webpack dependencies etc...)
 ```
 npm install
 ```

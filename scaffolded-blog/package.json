@@ -1,0 +1,28 @@
+{
+  "name": "scaffolded-blog",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "onslm",
+    "email": "onslm@hushmail.com"
+  },
+  "repository": "scaffolded-blog/scaffolded-blog",
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-rc.1",
+    "@vuepress/plugin-blog": "^1.2.4",
+    "@vuepress/plugin-last-updated": "^1.0.2",
+    "@vuepress/plugin-pwa": "^1.0.2",
+    "@vuepress/plugin-search": "^1.0.2",
+    "@vuepress/theme-blog": "^1.0.0",
+    "vuepress": "^1.0.0"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
